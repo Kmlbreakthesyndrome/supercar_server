@@ -1,0 +1,25 @@
+{
+  "name": "supercar_server",
+  "version": "1.0.0",
+  "description": "this is first MERN Stack Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmlbreakthesyndrome/supercar_server.git"
+  },
+  "author": "Komal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kmlbreakthesyndrome/supercar_server/issues"
+  },
+  "homepage": "https://github.com/Kmlbreakthesyndrome/supercar_server#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1",
+    "nodemon": "^3.1.9"
+  }
+}
